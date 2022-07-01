@@ -1,2 +1,2 @@
 # GMCM
-Code used in 2021 GMCM
+Python Source Code for 2021 GMCM
